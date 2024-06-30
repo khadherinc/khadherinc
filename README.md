@@ -59,7 +59,7 @@
 
 <br>
 
-[![khadherinc's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mouricedevs)
+[![khadherinc's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/khadherinc)
 <br>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="ABDUL KHADHER" />
